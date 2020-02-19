@@ -133,7 +133,7 @@ againMap = {"y":game, "n":end}
 message("""You awake to find yourself floating, weightless.
 	Starlight spills through a small window,
 	scattering across the padded white walls.
-	A bulky monkru wrench slowly drifts by
+	A bulky monkey wrench slowly drifts by
 	the shimmery faceplate of a spacesuit.
 	The door across from you has no features save
 	a flashing red light by a small label that reads
